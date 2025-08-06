@@ -22,6 +22,8 @@ A simple and modern web-based dictionary application. Enter a word to get its me
 ## Screenshot
 
 https://github.com/user-attachments/assets/ac4c499f-99bf-4a67-a126-f60de2b13d8c
+https://github.com/user-attachments/assets/cca06bfe-91dd-4b9c-8087-bc9f89a5170d
+
 
 
 ## License
