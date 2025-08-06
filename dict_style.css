@@ -12,7 +12,8 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: gray
+  background: gray url("image.png") no-repeat center center fixed;
+  background-size: cover;
 }
 
 ::selection {
@@ -21,10 +22,10 @@ body {
 }
 
 .wrapper {
-  width: 420px;
+  width: 800px;
   border-radius: 7px;
   background: #fff;
-  padding: 25px 28px 45px;
+  padding: 80px 80px 90px;
   box-shadow: 7px 7px 20px rgba(0, 0, 0, 0.05);
 }
 
@@ -161,4 +162,5 @@ ul .content::-webkit-scrollbar {
   cursor: pointer;
   margin-right: 5px;
   text-decoration: underline;
+
 }
