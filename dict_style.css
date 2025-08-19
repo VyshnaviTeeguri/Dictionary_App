@@ -23,7 +23,7 @@ body {
 
 .wrapper {
   width: 800px;
-  border-radius: 12px;
+  border-radius: 7px;
   background: #fff;
   padding: 80px 80px 90px;
   box-shadow: 7px 7px 20px rgba(0, 0, 0, 0.05);
@@ -162,4 +162,5 @@ ul .content::-webkit-scrollbar {
   cursor: pointer;
   margin-right: 5px;
   text-decoration: underline;
+
 }
